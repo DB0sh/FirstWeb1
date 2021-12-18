@@ -1,0 +1,61 @@
+.body1 {
+    margin: 20px;
+    background: url("../img/hand-painted-monochromatic.jpg");
+    line-height: 1.5;
+    font-size: 15px;
+}
+
+.body2 {
+    margin: 20px;
+    background: url("../img/snowflakes-background.jpg");
+    line-height: 1.5;
+    font-size: 15px;
+}
+
+.body3 {
+    background-color: peru;
+}
+
+.block1 {
+    width: 300px;
+    margin: 15px auto;
+    padding: 20px;
+    background-color: ivory;
+    box-shadow: 0 5px 5px #f5b6ef;
+}
+
+.block2 {
+    width: 20%;
+    border: solid 1.5px midnightblue;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+.block3 {
+    width: 30%;
+    background-color: snow;
+    border: solid 1.5px midnightblue;
+    margin-top: 10%;
+    margin-left: 33%;
+}
+
+.block4 {
+    width: 70px;
+    text-align: center;
+    background-color: ghostwhite;
+    border: solid 1.5px midnightblue;
+    cursor: pointer;
+    margin: 20px;
+}
+
+.block5 {
+    width: 30%;
+    background-color: ivory;
+    border: solid 1.5px midnightblue;
+    margin-top: 5%;
+    margin-left: 33%;
+}
+
+.block6 {
+    margin-bottom: 20px;
+}
